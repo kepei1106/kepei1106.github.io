@@ -15,7 +15,6 @@ I'm a fourth-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsin
 Education
 ======
 - **2017.9 - Present**:  Ph.D. Student, Department of Computer Science and Technology, Tsinghua University
-
 - **2013.9 - 2017.6**: B.Eng., Department of Control Science and Engineering, Zhejiang University
 
   
@@ -34,35 +33,27 @@ Publications
 **Preprints**
 
 - Fei Huang, Jian Guan, **Pei Ke**, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. OpenReview preprint 2021.[[pdf]](https://openreview.net/forum?id=wOI9hqkvu_)
-
 - Fei Huang, Dazhen Wan, Zhihong Shao, **Pei Ke**, Jian Guan, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2002.00583) [[code]](https://github.com/thu-coai/cotk)
-
 - Zhengyan Zhang, Xu Han, Hao Zhou, **Pei Ke**, Yuxian Gu, Deming Ye, Yujia Qin, YuSheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate)
 
   
 
 Services
 ======
-- Reviewer / Program Committee Member
+- Program Committee Member (Conference Reviewer): ACL (2020-2021), EMNLP 2019, NeurIPS 2020, ICML 2021, AAAI (2019-2021)
+- Journal Reviewer: TKDD
 
-  - Conference: ACL (2020-2021), EMNLP 2019, NeurIPS 2020, ICML 2021, AAAI (2019-2021)
-
-  - Journal: TKDD
-
-    
+  
 
 Teaching
 ======
 
-- I was a TA for the following undergraduate courses:
+I was a TA for the following undergraduate courses:
+- Artificial Neural Network (2017 Fall, 2018 Fall)
+- Object-Oriented Programming (2018 Spring, 2019 Spring, 2020 Spring)
+- Discrete Mathematics (2017 Fall)
 
-  - Artificial Neural Network (2017 Fall, 2018 Fall)
-
-  - Object-Oriented Programming (2018 Spring, 2019 Spring, 2020 Spring)
-
-  - Discrete Mathematics (2017 Fall)
-
-    
+  
 
 Selected Honors and Awards
 ======
