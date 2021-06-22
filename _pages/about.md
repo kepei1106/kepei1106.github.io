@@ -23,6 +23,7 @@ Publications
 ======
 **Conference Papers**
 
+- **Pei Ke**, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, Linfeng Song, Xiaoyan Zhu, Minlie Huang. JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs. **ACL 2021 Findings** (Long Paper).[[pdf]](https://arxiv.org/abs/2106.10502) [[code]](https://github.com/thu-coai/JointGT)
 - **Pei Ke**, Haozhe Ji, Siyang Liu, Xiaoyan Zhu, Minlie Huang. SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge. **EMNLP 2020** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.567/) [[code]](https://github.com/thu-coai/SentiLARE)
 - Haozhe Ji, **Pei Ke**, Shaohan Huang, Furu Wei, Xiaoyan Zhu, Minlie Huang. Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph. **EMNLP 2020** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.54/) [[code]](https://github.com/cdjhz/multigen)
 - Haozhe Ji, **Pei Ke**, Shaohan Huang, Furu Wei, Minlie Huang. Generating Commonsense Explanation by Extracting Bridge Concepts from Reasoning Paths. **AACL 2020** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.aacl-main.28/) [[code]](https://github.com/cdjhz/CommExpGen)
@@ -32,15 +33,16 @@ Publications
 
 **Preprints**
 
+- Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, Jian Guan, **Pei Ke**, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun. CPM-2: Large-scale Cost-effective Pre-trained Language Models. arXiv preprint 2021.[[pdf]](https://arxiv.org/abs/2106.10715) [[code]](https://github.com/TsinghuaAI/CPM)
 - Fei Huang, Jian Guan, **Pei Ke**, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. OpenReview preprint 2021.[[pdf]](https://openreview.net/forum?id=wOI9hqkvu_)
 - Fei Huang, Dazhen Wan, Zhihong Shao, **Pei Ke**, Jian Guan, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2002.00583) [[code]](https://github.com/thu-coai/cotk)
-- Zhengyan Zhang, Xu Han, Hao Zhou, **Pei Ke**, Yuxian Gu, Deming Ye, Yujia Qin, YuSheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate)
+- Zhengyan Zhang, Xu Han, Hao Zhou, **Pei Ke**, Yuxian Gu, Deming Ye, Yujia Qin, YuSheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM)
 
-  
+
 
 Services
 ======
-- Program Committee Member (Conference Reviewer): ACL (2020-2021), EMNLP 2019, NeurIPS 2020, ICML 2021, AAAI (2019-2021)
+- Program Committee Member (Conference Reviewer): ACL (2020-2021), EMNLP (2019, 2021), NeurIPS (2020-2021), ICML 2021, ICLR 2022, AAAI (2019-2021)
 - Journal Reviewer: TKDD
 
   
@@ -58,7 +60,8 @@ I was a TA for the following undergraduate courses:
 Selected Honors and Awards
 ======
 
-- Comprehensive Graduate Scholarship, Tsinghua University, 2020
+- 2nd Prize in Comprehensive Scholarship, Tsinghua University, 2020
+- Tencent Rhino-Bird Elite Training Program, 2020
 - Lixin Tang Scholarship (Top 40 undergraduate students at each year), Zhejiang University, 2016
 - Meritorious Winner (Top 8%), Mathematical Contest In Modeling (MCM), 2016
 - 1st Prize in National Mathematical Competition for College Students (Non-Professional Group), 2015
