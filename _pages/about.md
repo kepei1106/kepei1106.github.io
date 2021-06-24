@@ -43,7 +43,7 @@ Publications
 Services
 ======
 - Program Committee Member (Conference Reviewer): ACL (2020-2021), EMNLP (2019, 2021), NeurIPS (2020-2021), ICML 2021, ICLR 2022, AAAI (2019-2021)
-- Journal Reviewer: TKDD
+- Journal Reviewer: TKDD, TNNLS
 
   
 
