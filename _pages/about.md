@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I'm advised by Prof. [Xiaoyan Zhu](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224201854354286982/20101224201854354286982_.html) and Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include natural language generation, dialogue system, and sentiment analysis.
+I'm a fourth-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I'm advised by Prof. [Xiaoyan Zhu](https://www.cs.tsinghua.edu.cn/csen/info/1161/4011.htm) and Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include natural language generation, dialogue system, and sentiment analysis.
 
 
 
