@@ -23,6 +23,8 @@ Publications
 ======
 **Conference Papers**
 
+- **Pei Ke**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Xiaoyan Zhu, Minlie Huang. CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation. **ACL 2022** (Long Paper).
+- Siyang Liu, Sahand Sabour, Yinhe Zheng, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Rethinking and Refining the Distinct Metric. **ACL 2022** (Short Paper).
 - **Pei Ke**, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, Linfeng Song, Xiaoyan Zhu, Minlie Huang. JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs. **ACL 2021 Findings** (Long Paper).[[pdf]](https://aclanthology.org/2021.findings-acl.223/) [[code]](https://github.com/thu-coai/JointGT)
 - **Pei Ke**, Haozhe Ji, Siyang Liu, Xiaoyan Zhu, Minlie Huang. SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge. **EMNLP 2020** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.567/) [[code]](https://github.com/thu-coai/SentiLARE)
 - Haozhe Ji, **Pei Ke**, Shaohan Huang, Furu Wei, Xiaoyan Zhu, Minlie Huang. Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph. **EMNLP 2020** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.54/) [[code]](https://github.com/cdjhz/multigen)
@@ -33,6 +35,8 @@ Publications
 
 **Preprints**
 
+- Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, **Pei Ke**, Chujie Zheng, Zheng Zhang, Jianzhu Yao, Xiaoyan Zhu, Jie Tang, Minlie Huang. EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training. arXiv preprint 2022.[[pdf]](https://arxiv.org/abs/2203.09313) [[code]](https://github.com/thu-coai/EVA)
+- Hao Zhou, **Pei Ke**, Zheng Zhang, Yuxian Gu, Yinhe Zheng, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training. arXiv preprint 2021.[[pdf]](https://arxiv.org/abs/2108.01547) [[code]](https://github.com/thu-coai/EVA)
 - Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, Jian Guan, **Pei Ke**, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun. CPM-2: Large-scale Cost-effective Pre-trained Language Models. arXiv preprint 2021.[[pdf]](https://arxiv.org/abs/2106.10715) [[code]](https://github.com/TsinghuaAI/CPM)
 - Fei Huang, Jian Guan, **Pei Ke**, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. OpenReview preprint 2021.[[pdf]](https://openreview.net/forum?id=wOI9hqkvu_)
 - Fei Huang, Dazhen Wan, Zhihong Shao, **Pei Ke**, Jian Guan, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2002.00583) [[code]](https://github.com/thu-coai/cotk)
@@ -42,8 +46,8 @@ Publications
 
 Services
 ======
-- Program Committee Member (Conference Reviewer): ACL (2020-2021), EMNLP (2019, 2021), NeurIPS (2020-2021), ICML 2021, ICLR 2022, AAAI (2019-2021)
-- Journal Reviewer: TKDD, TNNLS
+- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021), NAACL 2022, NeurIPS (2020-2021), ICML (2021-2022), ICLR 2022, AAAI (2019-2021)
+- Journal Reviewer: TKDD, TNNLS, TASLP
 
   
 
@@ -60,6 +64,7 @@ I was a TA for the following undergraduate courses:
 Selected Honors and Awards
 ======
 
+- 1st Prize in Comprehensive Scholarship (Tsinghua-VMWare Scholarship), Tsinghua University, 2021
 - 2nd Prize in Comprehensive Scholarship, Tsinghua University, 2020
 - Tencent Rhino-Bird Elite Training Program, 2020
 - Lixin Tang Scholarship (Top 40 undergraduate students at each year), Zhejiang University, 2016
