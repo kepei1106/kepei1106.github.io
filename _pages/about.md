@@ -23,15 +23,16 @@ Publications
 ======
 **Conference Papers**
 
-- **Pei Ke**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Xiaoyan Zhu, Minlie Huang. CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation. **ACL 2022** (Long Paper).[[pdf]](https://arxiv.org/abs/2204.00862) [[code]](https://github.com/thu-coai/CTRLEval)
-- Siyang Liu, Sahand Sabour, Yinhe Zheng, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Rethinking and Refining the Distinct Metric. **ACL 2022** (Short Paper).[[pdf]](https://arxiv.org/abs/2202.13587) [[code]](https://github.com/lsy641/Expectation-Adjusted-Distinct)
-- **Pei Ke**, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, Linfeng Song, Xiaoyan Zhu, Minlie Huang. JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs. **ACL 2021 Findings** (Long Paper).[[pdf]](https://aclanthology.org/2021.findings-acl.223/) [[code]](https://github.com/thu-coai/JointGT)
-- **Pei Ke**, Haozhe Ji, Siyang Liu, Xiaoyan Zhu, Minlie Huang. SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge. **EMNLP 2020** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.567/) [[code]](https://github.com/thu-coai/SentiLARE)
-- Haozhe Ji, **Pei Ke**, Shaohan Huang, Furu Wei, Xiaoyan Zhu, Minlie Huang. Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph. **EMNLP 2020** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.54/) [[code]](https://github.com/cdjhz/multigen)
+- **Pei Ke**, Haozhe Ji, Zhenyu Yang, Yi Huang, Junlan Feng, Xiaoyan Zhu, Minlie Huang. Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation. **IJCAI 2022** (CCF-A, Full Paper).[[pdf]](https://arxiv.org/abs/2206.02712) [[code]](https://github.com/kepei1106/CBST)
+- **Pei Ke**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Xiaoyan Zhu, Minlie Huang. CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation. **ACL 2022** (CCF-A, Long Paper).[[pdf]](https://aclanthology.org/2022.acl-long.164/) [[code]](https://github.com/thu-coai/CTRLEval)
+- Siyang Liu, Sahand Sabour, Yinhe Zheng, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Rethinking and Refining the Distinct Metric. **ACL 2022** (CCF-A, Short Paper).[[pdf]](https://aclanthology.org/2022.acl-short.86/) [[code]](https://github.com/lsy641/Expectation-Adjusted-Distinct)
+- **Pei Ke**, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, Linfeng Song, Xiaoyan Zhu, Minlie Huang. JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs. **ACL 2021 Findings** (CCF-A, Long Paper).[[pdf]](https://aclanthology.org/2021.findings-acl.223/) [[code]](https://github.com/thu-coai/JointGT)
+- **Pei Ke**, Haozhe Ji, Siyang Liu, Xiaoyan Zhu, Minlie Huang. SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge. **EMNLP 2020** (CCF-B, Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.567/) [[code]](https://github.com/thu-coai/SentiLARE)
+- Haozhe Ji, **Pei Ke**, Shaohan Huang, Furu Wei, Xiaoyan Zhu, Minlie Huang. Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph. **EMNLP 2020** (CCF-B, Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.54/) [[code]](https://github.com/cdjhz/multigen)
 - Haozhe Ji, **Pei Ke**, Shaohan Huang, Furu Wei, Minlie Huang. Generating Commonsense Explanation by Extracting Bridge Concepts from Reasoning Paths. **AACL 2020** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/2020.aacl-main.28/) [[code]](https://github.com/cdjhz/CommExpGen)
-- Yida Wang, **Pei Ke**, Yinhe Zheng, Kaili Huang, Yong Jiang, Xiaoyan Zhu, Minlie Huang. A Large-Scale Chinese Short-Text Conversation Dataset. **NLPCC 2020** (<font color="#dd0000">Best Student Paper</font>).[[pdf]](https://arxiv.org/abs/2008.03946) [[code]](https://github.com/thu-coai/CDial-GPT)
-- **Pei Ke**, Fei Huang, Minlie Huang, Xiaoyan Zhu. ARAML: A Stable Adversarial Training Framework for Text Generation. **EMNLP 2019** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/D19-1436/) [[code]](https://github.com/kepei1106/ARAML)
-- **Pei Ke**, Jian Guan, Minlie Huang, Xiaoyan Zhu. Generating Informative Responses with Controlled Sentence Function. **ACL 2018** (Long Paper).[[pdf]](https://www.aclweb.org/anthology/P18-1139/) [[code]](https://github.com/kepei1106/SentenceFunction)
+- Yida Wang, **Pei Ke**, Yinhe Zheng, Kaili Huang, Yong Jiang, Xiaoyan Zhu, Minlie Huang. A Large-Scale Chinese Short-Text Conversation Dataset. **NLPCC 2020** (CCF-C, <font color="#dd0000">Best Student Paper</font>).[[pdf]](https://arxiv.org/abs/2008.03946) [[code]](https://github.com/thu-coai/CDial-GPT)
+- **Pei Ke**, Fei Huang, Minlie Huang, Xiaoyan Zhu. ARAML: A Stable Adversarial Training Framework for Text Generation. **EMNLP 2019** (CCF-B, Long Paper).[[pdf]](https://www.aclweb.org/anthology/D19-1436/) [[code]](https://github.com/kepei1106/ARAML)
+- **Pei Ke**, Jian Guan, Minlie Huang, Xiaoyan Zhu. Generating Informative Responses with Controlled Sentence Function. **ACL 2018** (CCF-A, Long Paper).[[pdf]](https://www.aclweb.org/anthology/P18-1139/) [[code]](https://github.com/kepei1106/SentenceFunction)
 
 **Preprints**
 
@@ -46,7 +47,7 @@ Publications
 
 Services
 ======
-- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021), NAACL 2022, NeurIPS (2020-2021), ICML (2021-2022), ICLR 2022, AAAI (2019-2021)
+- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021), NAACL 2022, NeurIPS (2020-2022), ICML (2021-2022), ICLR 2022, AAAI (2019-2021)
 - Journal Reviewer: TKDD, TNNLS, TASLP
 
   
