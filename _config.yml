@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pei Ke"
 title_separator          : "-"
 name                     : &name "Pei Ke"
-description              : &description "Ph.D. student at Tsinghua University"
+description              : &description "Postdoctoral Researcher at Tsinghua University"
 url                      : https://kepei1106.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kepei1106/kepei1106.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pei Ke"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Tsinghua University"
+  bio              : "Postdoctoral Researcher at Tsinghua University"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
