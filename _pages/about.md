@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. I'm advised by Prof. [Xiaoyan Zhu](https://www.cs.tsinghua.edu.cn/csen/info/1161/4011.htm) and Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include natural language generation, dialogue system, and sentiment analysis.
+I'm a postdoctoral researcher in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, collaborated with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before that, I received my Ph.D. degree in Computer Science and Technology from Tsinghua University, advised by Prof. [Xiaoyan Zhu](https://www.cs.tsinghua.edu.cn/csen/info/1161/4011.htm) and Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). My research interests include natural language generation, dialogue system, and sentiment analysis.
 
 
 
 Education
 ======
-- **2017.9 - Present**:  Ph.D. Student, Department of Computer Science and Technology, Tsinghua University
+- **2017.9 - 2022.6**:  Ph.D., Department of Computer Science and Technology, Tsinghua University
 - **2013.9 - 2017.6**: B.Eng., Department of Control Science and Engineering, Zhejiang University
 
   
@@ -23,7 +23,8 @@ Publications
 ======
 **Conference Papers**
 
-- **Pei Ke**, Haozhe Ji, Zhenyu Yang, Yi Huang, Junlan Feng, Xiaoyan Zhu, Minlie Huang. Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation. **IJCAI 2022** (CCF-A, Full Paper).[[pdf]](https://arxiv.org/abs/2206.02712) [[code]](https://github.com/kepei1106/CBST)
+- Yuxian Gu, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper).[[pdf]](https://arxiv.org/abs/2210.09175) [[code]](https://github.com/thu-coai/UDIT)
+- **Pei Ke**, Haozhe Ji, Zhenyu Yang, Yi Huang, Junlan Feng, Xiaoyan Zhu, Minlie Huang. Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation. **IJCAI 2022** (CCF-A, Full Paper).[[pdf]](https://www.ijcai.org/proceedings/2022/0580) [[code]](https://github.com/kepei1106/CBST)
 - **Pei Ke**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Xiaoyan Zhu, Minlie Huang. CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation. **ACL 2022** (CCF-A, Long Paper).[[pdf]](https://aclanthology.org/2022.acl-long.164/) [[code]](https://github.com/thu-coai/CTRLEval)
 - Siyang Liu, Sahand Sabour, Yinhe Zheng, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Rethinking and Refining the Distinct Metric. **ACL 2022** (CCF-A, Short Paper).[[pdf]](https://aclanthology.org/2022.acl-short.86/) [[code]](https://github.com/lsy641/Expectation-Adjusted-Distinct)
 - **Pei Ke**, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, Linfeng Song, Xiaoyan Zhu, Minlie Huang. JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs. **ACL 2021 Findings** (CCF-A, Long Paper).[[pdf]](https://aclanthology.org/2021.findings-acl.223/) [[code]](https://github.com/thu-coai/JointGT)
@@ -47,8 +48,8 @@ Publications
 
 Services
 ======
-- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021), NAACL 2022, NeurIPS (2020-2022), ICML (2021-2022), ICLR 2022, AAAI (2019-2021)
-- Journal Reviewer: TKDD, TNNLS, TASLP
+- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2022), ICML (2021-2022), ICLR (2022-2023), AAAI (2019-2021)
+- Journal Reviewer: ACM TKDD, IEEE TNNLS, IEEE TASLP, IEEE TKDE, ACM TWEB
 
   
 
@@ -65,7 +66,8 @@ I was a TA for the following undergraduate courses:
 Selected Honors and Awards
 ======
 
-- 1st Prize in Comprehensive Scholarship (Tsinghua-VMWare Scholarship), Tsinghua University, 2021
+- Excellent Graduate Student from Department of Computer Science and Technology, Tsinghua University, 2022
+- Tsinghua-VMWare Scholarship, Tsinghua University, 2021
 - 2nd Prize in Comprehensive Scholarship, Tsinghua University, 2020
 - Tencent Rhino-Bird Elite Training Program, 2020
 - Lixin Tang Scholarship (Top 40 undergraduate students at each year), Zhejiang University, 2016
