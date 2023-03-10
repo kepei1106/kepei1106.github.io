@@ -23,7 +23,8 @@ Publications
 ======
 **Conference Papers**
 
-- Yuxian Gu, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper).[[pdf]](https://arxiv.org/abs/2210.09175) [[code]](https://github.com/thu-coai/UDIT)
+- Haozhe Ji, **Pei Ke**, Zhipeng Hu, Rongsheng Zhang, Minlie Huang. Tailoring Language Generation Models under Total Variation Distance. **ICLR 2023** (<font color="#dd0000">Notable-Top-5%</font>).[[pdf]](https://openreview.net/forum?id=VELL0PlWfc) [[code]](https://github.com/thu-coai/TaiLr)
+- Yuxian Gu, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper).[[pdf]](https://aclanthology.org/2022.emnlp-main.105/) [[code]](https://github.com/thu-coai/UDIT)
 - **Pei Ke**, Haozhe Ji, Zhenyu Yang, Yi Huang, Junlan Feng, Xiaoyan Zhu, Minlie Huang. Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation. **IJCAI 2022** (CCF-A, Full Paper).[[pdf]](https://www.ijcai.org/proceedings/2022/0580) [[code]](https://github.com/kepei1106/CBST)
 - **Pei Ke**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Xiaoyan Zhu, Minlie Huang. CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation. **ACL 2022** (CCF-A, Long Paper).[[pdf]](https://aclanthology.org/2022.acl-long.164/) [[code]](https://github.com/thu-coai/CTRLEval)
 - Siyang Liu, Sahand Sabour, Yinhe Zheng, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Rethinking and Refining the Distinct Metric. **ACL 2022** (CCF-A, Short Paper).[[pdf]](https://aclanthology.org/2022.acl-short.86/) [[code]](https://github.com/lsy641/Expectation-Adjusted-Distinct)
@@ -48,7 +49,8 @@ Publications
 
 Services
 ======
-- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2022), ICML (2021-2022), ICLR (2022-2023), AAAI (2019-2021)
+- Area Chair: ACL 2023
+- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2022), ICML (2021-2023), ICLR (2022-2023), AAAI (2019-2021)
 - Journal Reviewer: ACM TKDD, IEEE TNNLS, IEEE TASLP, IEEE TKDE, ACM TWEB
 
   
