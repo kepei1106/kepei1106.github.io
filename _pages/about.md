@@ -23,6 +23,8 @@ Publications
 ======
 **Conference Papers**
 
+- **Pei Ke**, Fei Huang, Fei Mi, Yasheng Wang, Qun Liu, Xiaoyan Zhu, Minlie Huang. DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering. **ACL 2023** (CCF-A, Long Paper).
+- Chujie Zheng, **Pei Ke**, Zheng Zhang, Minlie Huang. Controllable Text Generation with Sequence Likelihood Contrastive Learning. **ACL 2023 Findings** (CCF-A, Long Paper).
 - Haozhe Ji, **Pei Ke**, Zhipeng Hu, Rongsheng Zhang, Minlie Huang. Tailoring Language Generation Models under Total Variation Distance. **ICLR 2023** (<font color="#dd0000">Notable-Top-5%</font>).[[pdf]](https://openreview.net/forum?id=VELL0PlWfc) [[code]](https://github.com/thu-coai/TaiLr)
 - Yuxian Gu, **Pei Ke**, Xiaoyan Zhu, Minlie Huang. Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. **EMNLP 2022** (CCF-B, Long Paper).[[pdf]](https://aclanthology.org/2022.emnlp-main.105/) [[code]](https://github.com/thu-coai/UDIT)
 - **Pei Ke**, Haozhe Ji, Zhenyu Yang, Yi Huang, Junlan Feng, Xiaoyan Zhu, Minlie Huang. Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation. **IJCAI 2022** (CCF-A, Full Paper).[[pdf]](https://www.ijcai.org/proceedings/2022/0580) [[code]](https://github.com/kepei1106/CBST)
@@ -35,6 +37,10 @@ Publications
 - Yida Wang, **Pei Ke**, Yinhe Zheng, Kaili Huang, Yong Jiang, Xiaoyan Zhu, Minlie Huang. A Large-Scale Chinese Short-Text Conversation Dataset. **NLPCC 2020** (CCF-C, <font color="#dd0000">Best Student Paper</font>).[[pdf]](https://arxiv.org/abs/2008.03946) [[code]](https://github.com/thu-coai/CDial-GPT)
 - **Pei Ke**, Fei Huang, Minlie Huang, Xiaoyan Zhu. ARAML: A Stable Adversarial Training Framework for Text Generation. **EMNLP 2019** (CCF-B, Long Paper).[[pdf]](https://www.aclweb.org/anthology/D19-1436/) [[code]](https://github.com/kepei1106/ARAML)
 - **Pei Ke**, Jian Guan, Minlie Huang, Xiaoyan Zhu. Generating Informative Responses with Controlled Sentence Function. **ACL 2018** (CCF-A, Long Paper).[[pdf]](https://www.aclweb.org/anthology/P18-1139/) [[code]](https://github.com/kepei1106/SentenceFunction)
+
+**Journal Papers**
+
+- Fei Huang, **Pei Ke**, Minlie Huang. Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation. **TACL 2023** (CCF-B, JCR Q1).[[pdf]](https://arxiv.org/abs/2304.11791) [[code]](https://github.com/thu-coai/DA-Transformer)
 
 **Preprints**
 
@@ -50,7 +56,7 @@ Publications
 Services
 ======
 - Area Chair: ACL 2023
-- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2022), ICML (2021-2023), ICLR (2022-2023), AAAI (2019-2021)
+- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2023), ICML (2021-2023), ICLR (2022-2023), AAAI (2019-2021)
 - Journal Reviewer: ACM TKDD, IEEE TNNLS, IEEE TASLP, IEEE TKDE, ACM TWEB
 
   
