@@ -56,7 +56,7 @@ Publications
 Services
 ======
 - Area Chair: ACL 2023, EMNLP 2023
-- Program Committee Member (Conference Reviewer): ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2023), ICML (2021-2023), ICLR (2022-2023), AAAI (2019-2021)
+- Conference Reviewer: ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2023), ICML (2021-2023), ICLR (2022-2023), AAAI (2019-2021)
 - Journal Reviewer: ACM TKDD, IEEE TNNLS, IEEE TASLP, IEEE TKDE, ACM TWEB, CL
 
   
