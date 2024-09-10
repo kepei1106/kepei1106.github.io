@@ -48,24 +48,25 @@ Publications
 
 **Journal Papers**
 
-- Fei Huang, **Pei Ke**, Minlie Huang. Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation. **TACL 2023** (CCF-B).[[pdf]](https://arxiv.org/abs/2304.11791) [[code]](https://github.com/thu-coai/DA-Transformer)
+- Fei Huang, **Pei Ke**, Minlie Huang. Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation. **TACL 2023** (CCF-B).[[pdf]](https://arxiv.org/abs/2304.11791) 
 
 **Preprints**
 
-- Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, **Pei Ke**, Chujie Zheng, Zheng Zhang, Jianzhu Yao, Xiaoyan Zhu, Jie Tang, Minlie Huang. EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training. arXiv preprint 2022.[[pdf]](https://arxiv.org/abs/2203.09313) [[code]](https://github.com/thu-coai/EVA)
-- Hao Zhou, **Pei Ke**, Zheng Zhang, Yuxian Gu, Yinhe Zheng, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training. arXiv preprint 2021.[[pdf]](https://arxiv.org/abs/2108.01547) [[code]](https://github.com/thu-coai/EVA)
-- Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, Jian Guan, **Pei Ke**, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun. CPM-2: Large-scale Cost-effective Pre-trained Language Models. arXiv preprint 2021.[[pdf]](https://arxiv.org/abs/2106.10715) [[code]](https://github.com/TsinghuaAI/CPM)
+- Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, **Pei Ke**, Chujie Zheng, Zheng Zhang, Jianzhu Yao, Xiaoyan Zhu, Jie Tang, Minlie Huang. EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training. arXiv preprint 2022.[[pdf]](https://arxiv.org/abs/2203.09313) 
+- Hao Zhou, **Pei Ke**, Zheng Zhang, Yuxian Gu, Yinhe Zheng, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training. arXiv preprint 2021.[[pdf]](https://arxiv.org/abs/2108.01547) 
+- Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, Jian Guan, **Pei Ke**, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun. CPM-2: Large-scale Cost-effective Pre-trained Language Models. arXiv preprint 2021.[[pdf]](https://arxiv.org/abs/2106.10715) 
 - Fei Huang, Jian Guan, **Pei Ke**, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. OpenReview preprint 2021.[[pdf]](https://openreview.net/forum?id=wOI9hqkvu_)
-- Fei Huang, Dazhen Wan, Zhihong Shao, **Pei Ke**, Jian Guan, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2002.00583) [[code]](https://github.com/thu-coai/cotk)
-- Zhengyan Zhang, Xu Han, Hao Zhou, **Pei Ke**, Yuxian Gu, Deming Ye, Yujia Qin, YuSheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM)
+- Fei Huang, Dazhen Wan, Zhihong Shao, **Pei Ke**, Jian Guan, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2002.00583) 
+- Zhengyan Zhang, Xu Han, Hao Zhou, **Pei Ke**, Yuxian Gu, Deming Ye, Yujia Qin, YuSheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. arXiv preprint 2020.[[pdf]](https://arxiv.org/abs/2012.00413) 
 
 
 
 Services
 ======
+- Action Editor: ACL Rolling Review (2023-2024)
 - Area Chair: ACL 2023, EMNLP 2023
-- Conference Reviewer: ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2023), ICML (2021-2023), ICLR (2022-2023), AAAI (2019-2021)
-- Journal Reviewer: ACM TKDD, IEEE TNNLS, IEEE TASLP, IEEE TKDE, ACM TWEB, CL
+- Conference Reviewer: ACL (2020-2022), EMNLP (2019, 2021-2022), NAACL 2022, NeurIPS (2020-2024), ICML (2021-2023), ICLR (2022-2024), AAAI (2019-2021)
+- Journal Reviewer: ACM TKDD, IEEE TNNLS, IEEE TASLP, IEEE TKDE, ACM TWEB, CL, TACL, ACM TIST, IPM
 
   
 
@@ -82,6 +83,7 @@ I was a TA for the following undergraduate courses:
 Selected Honors and Awards
 ======
 
+- China National Postdoctoral Program for Innovative Talents, 2023
 - Excellent Graduate Student from Department of Computer Science and Technology, Tsinghua University, 2022
 - Tsinghua-VMWare Scholarship, Tsinghua University, 2021
 - 2nd Prize in Comprehensive Scholarship, Tsinghua University, 2020
